@@ -44,7 +44,7 @@ Caso esta polÃ­tica seja atualizada, a nova versÃ£o serÃ¡ publicada nesta 
 
 ## 8. Contato
 
-DÃºvidas? Entre em contato: **[seu-email@gmail.com]**
+DÃºvidas? Entre em contato: **lvm4lu@gmail.com**
 
 
 *Esta polÃ­tica se aplica ao aplicativo CHECK! disponÃ­vel na Google Play Store.*"
