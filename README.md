@@ -20,7 +20,7 @@ O app salva no seu prÃ³prio dispositivo:
 - HistÃ³rico de atividade semanal
 - Lembretes que vocÃª definiu
 
-Esses dados ficam exclusivamente no seu celular e sÃ£o apagados quando vocÃª desinstala o app.
+Esses dados ficam exclusivamente no seu celular e sÃ£o apagados quando vocÃª desinstala o app..
 
 ## 4. PermissÃµes utilizadas
 
